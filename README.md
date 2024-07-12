@@ -1,4 +1,4 @@
-# Código para imprimir "Te amo"
+#  "Te amo"
 
 def express_love():
     message = "Te amo"
